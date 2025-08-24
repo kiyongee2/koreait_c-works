@@ -39,5 +39,17 @@
     <ClCompile Include="whileEx.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="keyRepeat.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="forEx.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="nestedFor.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="자리배치도.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

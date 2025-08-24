@@ -15,14 +15,17 @@ int main(){
 	//1, 2, 3... 10
 	//짝수만 출력 - 2의 배수 -> 3 % 2 = 0
 	int n = 1;  //초기값
-	/*while (n <= 10) {  //종료 조건
+	while (n <= 10) {  //종료 조건
 		if (n % 2 == 0) {
 			cout << n << " ";
 		}
 		n++; //증가값
-	}*/
+	}
+	cout << endl;
+	cout << "n = " << n << endl; //11
 
 	//무한 반복문 - break로 빠져 나옴
+	n = 1;  //초기화
 	while (true) { //while(1)
 		if (n > 10) //종료 조건
 			break;  

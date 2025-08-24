@@ -3,36 +3,16 @@
   "WorkspaceRootPath": "C:\\c\u002B\u002Bworks\\Basic\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6ACA8D55-B44B-4AD6-8674-881910E5137A}|Basic\\Basic.vcxproj|C:\\c\u002B\u002Bworks\\Basic\\Basic\\whileEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6ACA8D55-B44B-4AD6-8674-881910E5137A}|Basic\\Basic.vcxproj|solutionrelative:Basic\\whileEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{6ACA8D55-B44B-4AD6-8674-881910E5137A}|Basic\\Basic.vcxproj|C:\\c\u002B\u002Bworks\\Basic\\Basic\\\uC790\uB9AC\uBC30\uCE58\uB3C4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6ACA8D55-B44B-4AD6-8674-881910E5137A}|Basic\\Basic.vcxproj|solutionrelative:Basic\\\uC790\uB9AC\uBC30\uCE58\uB3C4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6ACA8D55-B44B-4AD6-8674-881910E5137A}|Basic\\Basic.vcxproj|C:\\c\u002B\u002Bworks\\Basic\\Basic\\ifEx2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6ACA8D55-B44B-4AD6-8674-881910E5137A}|Basic\\Basic.vcxproj|solutionrelative:Basic\\ifEx2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{6ACA8D55-B44B-4AD6-8674-881910E5137A}|Basic\\Basic.vcxproj|C:\\c\u002B\u002Bworks\\Basic\\Basic\\nestedFor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6ACA8D55-B44B-4AD6-8674-881910E5137A}|Basic\\Basic.vcxproj|solutionrelative:Basic\\nestedFor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6ACA8D55-B44B-4AD6-8674-881910E5137A}|Basic\\Basic.vcxproj|C:\\c\u002B\u002Bworks\\Basic\\Basic\\ifEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6ACA8D55-B44B-4AD6-8674-881910E5137A}|Basic\\Basic.vcxproj|solutionrelative:Basic\\ifEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6ACA8D55-B44B-4AD6-8674-881910E5137A}|Basic\\Basic.vcxproj|C:\\c\u002B\u002Bworks\\Basic\\Basic\\inputData.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6ACA8D55-B44B-4AD6-8674-881910E5137A}|Basic\\Basic.vcxproj|solutionrelative:Basic\\inputData.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6ACA8D55-B44B-4AD6-8674-881910E5137A}|Basic\\Basic.vcxproj|C:\\c\u002B\u002Bworks\\Basic\\Basic\\constantEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6ACA8D55-B44B-4AD6-8674-881910E5137A}|Basic\\Basic.vcxproj|solutionrelative:Basic\\constantEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6ACA8D55-B44B-4AD6-8674-881910E5137A}|Basic\\Basic.vcxproj|C:\\c\u002B\u002Bworks\\Basic\\Basic\\operator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6ACA8D55-B44B-4AD6-8674-881910E5137A}|Basic\\Basic.vcxproj|solutionrelative:Basic\\operator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6ACA8D55-B44B-4AD6-8674-881910E5137A}|Basic\\Basic.vcxproj|C:\\c\u002B\u002Bworks\\Basic\\Basic\\variable.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6ACA8D55-B44B-4AD6-8674-881910E5137A}|Basic\\Basic.vcxproj|solutionrelative:Basic\\variable.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6ACA8D55-B44B-4AD6-8674-881910E5137A}|Basic\\Basic.vcxproj|C:\\c\u002B\u002Bworks\\Basic\\Basic\\printData.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6ACA8D55-B44B-4AD6-8674-881910E5137A}|Basic\\Basic.vcxproj|solutionrelative:Basic\\printData.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{6ACA8D55-B44B-4AD6-8674-881910E5137A}|Basic\\Basic.vcxproj|C:\\c\u002B\u002Bworks\\Basic\\Basic\\forEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6ACA8D55-B44B-4AD6-8674-881910E5137A}|Basic\\Basic.vcxproj|solutionrelative:Basic\\forEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -47,111 +27,46 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "whileEx.cpp",
-              "DocumentMoniker": "C:\\c\u002B\u002Bworks\\Basic\\Basic\\whileEx.cpp",
-              "RelativeDocumentMoniker": "Basic\\whileEx.cpp",
-              "ToolTip": "C:\\c\u002B\u002Bworks\\Basic\\Basic\\whileEx.cpp",
-              "RelativeToolTip": "Basic\\whileEx.cpp",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB8AAAAGAAAAAAAAAA==",
+              "Title": "\uC790\uB9AC\uBC30\uCE58\uB3C4.cpp",
+              "DocumentMoniker": "C:\\c\u002B\u002Bworks\\Basic\\Basic\\\uC790\uB9AC\uBC30\uCE58\uB3C4.cpp",
+              "RelativeDocumentMoniker": "Basic\\\uC790\uB9AC\uBC30\uCE58\uB3C4.cpp",
+              "ToolTip": "C:\\c\u002B\u002Bworks\\Basic\\Basic\\\uC790\uB9AC\uBC30\uCE58\uB3C4.cpp",
+              "RelativeToolTip": "Basic\\\uC790\uB9AC\uBC30\uCE58\uB3C4.cpp",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-08-23T06:09:22.125Z",
+              "WhenOpened": "2025-08-24T04:51:22.497Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ifEx2.cpp",
-              "DocumentMoniker": "C:\\c\u002B\u002Bworks\\Basic\\Basic\\ifEx2.cpp",
-              "RelativeDocumentMoniker": "Basic\\ifEx2.cpp",
-              "ToolTip": "C:\\c\u002B\u002Bworks\\Basic\\Basic\\ifEx2.cpp",
-              "RelativeToolTip": "Basic\\ifEx2.cpp",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAAHAAAAAAAAAA==",
+              "Title": "nestedFor.cpp",
+              "DocumentMoniker": "C:\\c\u002B\u002Bworks\\Basic\\Basic\\nestedFor.cpp",
+              "RelativeDocumentMoniker": "Basic\\nestedFor.cpp",
+              "ToolTip": "C:\\c\u002B\u002Bworks\\Basic\\Basic\\nestedFor.cpp",
+              "RelativeToolTip": "Basic\\nestedFor.cpp",
+              "ViewState": "AgIAABsAAAAAAAAAAAAiwCoAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-08-23T05:53:47.362Z",
+              "WhenOpened": "2025-08-24T04:19:35.053Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ifEx.cpp",
-              "DocumentMoniker": "C:\\c\u002B\u002Bworks\\Basic\\Basic\\ifEx.cpp",
-              "RelativeDocumentMoniker": "Basic\\ifEx.cpp",
-              "ToolTip": "C:\\c\u002B\u002Bworks\\Basic\\Basic\\ifEx.cpp",
-              "RelativeToolTip": "Basic\\ifEx.cpp",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAAhAAAAAAAAAA==",
+              "Title": "forEx.cpp",
+              "DocumentMoniker": "C:\\c\u002B\u002Bworks\\Basic\\Basic\\forEx.cpp",
+              "RelativeDocumentMoniker": "Basic\\forEx.cpp",
+              "ToolTip": "C:\\c\u002B\u002Bworks\\Basic\\Basic\\forEx.cpp",
+              "RelativeToolTip": "Basic\\forEx.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-08-23T05:42:41.475Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "inputData.cpp",
-              "DocumentMoniker": "C:\\c\u002B\u002Bworks\\Basic\\Basic\\inputData.cpp",
-              "RelativeDocumentMoniker": "Basic\\inputData.cpp",
-              "ToolTip": "C:\\c\u002B\u002Bworks\\Basic\\Basic\\inputData.cpp",
-              "RelativeToolTip": "Basic\\inputData.cpp",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-08-23T05:18:03.59Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "constantEx.cpp",
-              "DocumentMoniker": "C:\\c\u002B\u002Bworks\\Basic\\Basic\\constantEx.cpp",
-              "RelativeDocumentMoniker": "Basic\\constantEx.cpp",
-              "ToolTip": "C:\\c\u002B\u002Bworks\\Basic\\Basic\\constantEx.cpp",
-              "RelativeToolTip": "Basic\\constantEx.cpp",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-08-23T05:06:13.522Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "operator.cpp",
-              "DocumentMoniker": "C:\\c\u002B\u002Bworks\\Basic\\Basic\\operator.cpp",
-              "RelativeDocumentMoniker": "Basic\\operator.cpp",
-              "ToolTip": "C:\\c\u002B\u002Bworks\\Basic\\Basic\\operator.cpp",
-              "RelativeToolTip": "Basic\\operator.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-08-23T04:50:20.547Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "variable.cpp",
-              "DocumentMoniker": "C:\\c\u002B\u002Bworks\\Basic\\Basic\\variable.cpp",
-              "RelativeDocumentMoniker": "Basic\\variable.cpp",
-              "ToolTip": "C:\\c\u002B\u002Bworks\\Basic\\Basic\\variable.cpp",
-              "RelativeToolTip": "Basic\\variable.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-08-23T04:19:00.237Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "printData.cpp",
-              "DocumentMoniker": "C:\\c\u002B\u002Bworks\\Basic\\Basic\\printData.cpp",
-              "RelativeDocumentMoniker": "Basic\\printData.cpp",
-              "ToolTip": "C:\\c\u002B\u002Bworks\\Basic\\Basic\\printData.cpp",
-              "RelativeToolTip": "Basic\\printData.cpp",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-08-23T04:01:02.878Z",
+              "WhenOpened": "2025-08-24T03:52:34.479Z",
               "EditorCaption": ""
             }
           ]
         },
         {
-          "DockedWidth": 221,
+          "DockedWidth": 557,
           "SelectedChildIndex": -1,
           "Children": [
             {
@@ -161,7 +76,7 @@
           ]
         },
         {
-          "DockedWidth": 241,
+          "DockedWidth": 221,
           "SelectedChildIndex": -1,
           "Children": [
             {
