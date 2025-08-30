@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\c\u002B\u002Bworks\\Functions\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9B5314B2-0A87-4BDE-8A78-0BD6D6EB36B8}|Functions\\Functions.vcxproj|C:\\c\u002B\u002Bworks\\Functions\\Functions\\datetime.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9B5314B2-0A87-4BDE-8A78-0BD6D6EB36B8}|Functions\\Functions.vcxproj|solutionrelative:Functions\\datetime.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5314B2-0A87-4BDE-8A78-0BD6D6EB36B8}|Functions\\Functions.vcxproj|C:\\c\u002B\u002Bworks\\Functions\\Functions\\timeFunction.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9B5314B2-0A87-4BDE-8A78-0BD6D6EB36B8}|Functions\\Functions.vcxproj|solutionrelative:Functions\\timeFunction.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5314B2-0A87-4BDE-8A78-0BD6D6EB36B8}|Functions\\Functions.vcxproj|C:\\c\u002B\u002Bworks\\Functions\\Functions\\defaultParam.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9B5314B2-0A87-4BDE-8A78-0BD6D6EB36B8}|Functions\\Functions.vcxproj|solutionrelative:Functions\\defaultParam.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5314B2-0A87-4BDE-8A78-0BD6D6EB36B8}|Functions\\Functions.vcxproj|C:\\c\u002B\u002Bworks\\Functions\\Functions\\variableScope.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9B5314B2-0A87-4BDE-8A78-0BD6D6EB36B8}|Functions\\Functions.vcxproj|solutionrelative:Functions\\variableScope.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5314B2-0A87-4BDE-8A78-0BD6D6EB36B8}|Functions\\Functions.vcxproj|C:\\c\u002B\u002Bworks\\Functions\\Functions\\variableStatic.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9B5314B2-0A87-4BDE-8A78-0BD6D6EB36B8}|Functions\\Functions.vcxproj|solutionrelative:Functions\\variableStatic.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9B5314B2-0A87-4BDE-8A78-0BD6D6EB36B8}|Functions\\Functions.vcxproj|C:\\c\u002B\u002Bworks\\Functions\\Functions\\returnFunctions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{9B5314B2-0A87-4BDE-8A78-0BD6D6EB36B8}|Functions\\Functions.vcxproj|solutionrelative:Functions\\returnFunctions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -23,19 +43,84 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "datetime.cpp",
+              "DocumentMoniker": "C:\\c\u002B\u002Bworks\\Functions\\Functions\\datetime.cpp",
+              "RelativeDocumentMoniker": "Functions\\datetime.cpp",
+              "ToolTip": "C:\\c\u002B\u002Bworks\\Functions\\Functions\\datetime.cpp",
+              "RelativeToolTip": "Functions\\datetime.cpp",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-30T04:35:20.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "timeFunction.cpp",
+              "DocumentMoniker": "C:\\c\u002B\u002Bworks\\Functions\\Functions\\timeFunction.cpp",
+              "RelativeDocumentMoniker": "Functions\\timeFunction.cpp",
+              "ToolTip": "C:\\c\u002B\u002Bworks\\Functions\\Functions\\timeFunction.cpp",
+              "RelativeToolTip": "Functions\\timeFunction.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-30T04:11:14.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "defaultParam.cpp",
+              "DocumentMoniker": "C:\\c\u002B\u002Bworks\\Functions\\Functions\\defaultParam.cpp",
+              "RelativeDocumentMoniker": "Functions\\defaultParam.cpp",
+              "ToolTip": "C:\\c\u002B\u002Bworks\\Functions\\Functions\\defaultParam.cpp",
+              "RelativeToolTip": "Functions\\defaultParam.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-30T04:02:12.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "variableStatic.cpp",
+              "DocumentMoniker": "C:\\c\u002B\u002Bworks\\Functions\\Functions\\variableStatic.cpp",
+              "RelativeDocumentMoniker": "Functions\\variableStatic.cpp",
+              "ToolTip": "C:\\c\u002B\u002Bworks\\Functions\\Functions\\variableStatic.cpp",
+              "RelativeToolTip": "Functions\\variableStatic.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-30T03:51:01.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "variableScope.cpp",
+              "DocumentMoniker": "C:\\c\u002B\u002Bworks\\Functions\\Functions\\variableScope.cpp",
+              "RelativeDocumentMoniker": "Functions\\variableScope.cpp",
+              "ToolTip": "C:\\c\u002B\u002Bworks\\Functions\\Functions\\variableScope.cpp",
+              "RelativeToolTip": "Functions\\variableScope.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-30T03:39:43.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "returnFunctions.cpp",
               "DocumentMoniker": "C:\\c\u002B\u002Bworks\\Functions\\Functions\\returnFunctions.cpp",
               "RelativeDocumentMoniker": "Functions\\returnFunctions.cpp",
-              "ToolTip": "C:\\c\u002B\u002Bworks\\Functions\\Functions\\returnFunctions.cpp*",
-              "RelativeToolTip": "Functions\\returnFunctions.cpp*",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "ToolTip": "C:\\c\u002B\u002Bworks\\Functions\\Functions\\returnFunctions.cpp",
+              "RelativeToolTip": "Functions\\returnFunctions.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-08-24T06:09:22.916Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "voidFunctions.cpp",
               "DocumentMoniker": "C:\\c\u002B\u002Bworks\\Functions\\Functions\\voidFunctions.cpp",
               "RelativeDocumentMoniker": "Functions\\voidFunctions.cpp",
@@ -43,8 +128,7 @@
               "RelativeToolTip": "Functions\\voidFunctions.cpp",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-08-24T06:00:00.807Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-24T06:00:00.807Z"
             }
           ]
         },
