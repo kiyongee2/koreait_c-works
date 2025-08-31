@@ -53,6 +53,30 @@ string Book::getAutor() { return author; }
 
 int main() {
 
+	//객체 배열
+	Book book[3];
+
+	book[0].setNumber(1);
+	book[0].setTitle("채식주의자");
+	book[0].setAuthor("한강");
+
+	book[1].setNumber(2);
+	book[1].setTitle("C++ 프로그래밍");
+	book[1].setAuthor("김철수");
+
+	book[2].setNumber(3);
+	book[2].setTitle("Python 프로그래밍");
+	book[2].setAuthor("김선화");
+
+	//출력
+	for (int i = 0; i < 3; i++) {
+		cout << "책 번호: " << book[i].getNumber() << endl;
+		cout << "책 제목: " << book[i].getTitle() << endl;
+		cout << "저자: " << book[i].getAutor() << endl;
+		cout << "-----------------------------\n";
+	}
+
+	/*
 	//인스턴스 생성
 	Book book1;
 
@@ -65,6 +89,7 @@ int main() {
 	cout << "책 번호: " << book1.getNumber() << endl;
 	cout << "책 제목: " << book1.getTitle() << endl;
 	cout << "저자: " << book1.getAutor() << endl;
+	*/
 
 	return 0;
 }
