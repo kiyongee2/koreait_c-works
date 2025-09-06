@@ -21,6 +21,12 @@
     <ClInclude Include="Student.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
+    <ClInclude Include="Bus.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Person.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Subject.cpp">
@@ -33,6 +39,24 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="pointerEx.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="참조자.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="참조에 의한 호출.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Bus.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="transport.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Person.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="staticMyMath.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

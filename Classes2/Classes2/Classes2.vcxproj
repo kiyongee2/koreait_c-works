@@ -123,16 +123,32 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="Bus.h" />
+    <ClInclude Include="Person.h" />
     <ClInclude Include="Student.h" />
     <ClInclude Include="Subject.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="pointerEx.cpp" />
+    <ClCompile Include="Bus.cpp" />
+    <ClCompile Include="Person.cpp" />
+    <ClCompile Include="pointerEx.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="staticMyMath.cpp" />
     <ClCompile Include="Student.cpp" />
     <ClCompile Include="StudentMain.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="Subject.cpp" />
+    <ClCompile Include="transport.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="참조에 의한 호출.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="참조자.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
